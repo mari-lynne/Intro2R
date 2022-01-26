@@ -1,5 +1,7 @@
 # Intro2R
-Course materials for Introduction to R for Medical Scientists 
+Course materials for Introduction to R for Medical Scientists
+
+Content be downloaded by clicking on the green code button, then download all files as a zip
 
 Software Requirements
 
